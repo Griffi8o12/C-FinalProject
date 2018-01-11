@@ -4,7 +4,8 @@ SongIndexer
 ## Synopsis
 
 This is a song indexing program that will assist musicians learn a plethora of songs, being able to visualize a long list and practice accordingly.
-Code Example
+
+## Code Example
 
 cout << "Enter band name: ";
 getline(cin, band);
@@ -22,8 +23,10 @@ songs << band << '#' << song << '?' << c << '^' << far << '(' << endl;
 ## Motivation
 
 I personally, had difficulty remembering songs I had practiced in my early days playing the guitar, with this program, I aim to help strengthen muscle memory, and keep a diverse and numerous "song bank" to play at will.
-Installation
-Tests
+
+## Installation
+
+## Tests
 
 The menu displayed will add, search, and display songs by a couple different categories
 
